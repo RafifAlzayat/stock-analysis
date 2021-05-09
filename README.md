@@ -1,14 +1,14 @@
-## stock-analysis
+# stock-analysis
 
-# Purpose:
+## Purpose:
  
 The purpose of the project is to refactor a stock dataset with a VPA solution code to make it loop throughout the data one time and collect the entire data included faster. Then after refactoring the code and make it run faster, we make the code run more efficiently by using less memory and create less line of codes so the future user can read it easily.
 
-What are the advantages or disadvantages of refactoring code?
+#What are the advantages or disadvantages of refactoring code?
 
 You are very limited with the steps you can take to refactor the code.
 
-# Disadvantages:
+## Disadvantages:
 
 There are many duplicate lines and the same line is saved in multiple locations.
 
@@ -16,7 +16,7 @@ Many failing attempts when testing the outcome of the refactoring code.
 
 The code was unstructured and the best solution was to split into different functions.
 
-# Advantages:
+## Advantages:
 
 VBA had a pattern that is easy to follow.
 
