@@ -23,6 +23,6 @@ VBA had a pattern that is easy to follow.
 Using Excel follow shows the program or dataset in a very comprehensible way.
 
 
-    ![VBA 2017 Screenshot](https://github.com/RafifAlzayat/stock-analysis/blob/main/resources/Screen%20Shot%202021-05-09%20at%205.05.15%20PM.png?raw=true)
+    ![alt text](https://github.com/RafifAlzayat/stock-analysis/blob/main/resources/Screen%20Shot%202021-05-09%20at%205.05.15%20PM.png?raw=true)
 
-    ![VBA 2018 Screenshot](https://github.com/RafifAlzayat/stock-analysis/blob/main/resources/Screen%20Shot%202021-05-09%20at%205.06.13%20PM.png?raw=true)
+    ![alt text](https://github.com/RafifAlzayat/stock-analysis/blob/main/resources/Screen%20Shot%202021-05-09%20at%205.06.13%20PM.png?raw=true)
